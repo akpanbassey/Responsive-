@@ -1,0 +1,9 @@
+.logo, .nav-center{
+    display: flex;
+}
+#navbarNavAltMarkup{
+    margin-left: 400px;
+}
+.nav-right{
+    margin-left: 400px;
+}
